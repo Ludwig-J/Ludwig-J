@@ -50,12 +50,9 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' width='60' height='60'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
 
 ## Stats
-  
-  <div align="center">
-    <img height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
-  </div>
 
-  <div align="center">
+  <div align="display: flex; flex-direction: row;">
+     <img height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Ludwig-J&theme=nord" />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=nord" />
   </div>
