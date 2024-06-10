@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World  👋, my name is Jacob Ludwig
+## Hello World  👋, my name is Jacob Ludwig
 ![](https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React, and SQL. I recently gained expertise through an intensive coding bootcamp focused on dynamic web applications. Former GMP-compliant biopharmaceutical manufacturing professional with strong problem-solving skills. 
 
-### My current Tech Stack
+---
+
+## My current Tech Stack
 
 <section align="center">
   <h3>My Tech Stack:</h3>
@@ -45,11 +47,11 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
   </div>
 </section>
 
-### 📫 How to reach me: ...
+## 📫 How to reach me: ...
 
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' width='60' height='60'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
 
-### Stats
+## Stats
 
   <div align="center">
     <img height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
@@ -57,6 +59,7 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=nord" />
   </div>
 
+---
 
 <p align="center"> 
   Visitor count<br>
