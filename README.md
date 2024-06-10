@@ -51,14 +51,14 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 
 ### Stats
 
-  <div align="left">
+  <div align="center">
     <img height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Ludwig-J&theme=nord" />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=nord" />
   </div>
 
 
-<p align="left"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Ludwig-J/count.svg" />
 </p>
