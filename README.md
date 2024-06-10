@@ -47,7 +47,7 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 
 ### 📫 How to reach me: ...
 
-[<img src='https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png' alt='github' height='40'>](https://github.com/Ludwig-J)  [<img src='https://i.pngimg.me/thumb/f/720/m2H7K9G6G6N4m2H7.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
+[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YWf5SB7qNOMpS7sFC3SOkAohj4LD9-AZgg&s' alt='github' height='40'>](https://github.com/Ludwig-J)  [<img src='https://static.vecteezy.com/system/resources/previews/018/930/585/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
 
 ### Stats
 
