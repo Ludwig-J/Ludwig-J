@@ -47,11 +47,11 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 
 ### 📫 How to reach me: ...
 
-[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YWf5SB7qNOMpS7sFC3SOkAohj4LD9-AZgg&s' alt='github' height='40'>](https://github.com/Ludwig-J)  [<img src='https://static.vecteezy.com/system/resources/previews/018/930/585/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' width='60' height='60'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
 
 ### Stats
 
-  <div align="center">
+  <div align="left">
     <img height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Ludwig-J&theme=nord" />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=nord" />
