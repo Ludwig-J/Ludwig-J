@@ -23,25 +23,25 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 <section align="center">
   <h3>My Tech Stack:</h3>
   <div>  
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript"/>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript"/>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react"/>
-    <img width="96" height="96" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs"/>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="html"/>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react"/>
+    <img width="100" height="100" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="html"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3"/>
   </div>
   <div>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="node-js"/>
-    <img width="96" height="96" src="https://assets-global.website-files.com/609bc2fa29b6d5b7f44a2785/647743f51bc76753239a8bc6_expressjs-logo.webp" alt="express-js"/>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
-    <img width="200" height="96" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" alt="Tailwind CSS"/>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg" alt="jest"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="node-js"/>
+    <img width="100" height="100" src="https://assets-global.website-files.com/609bc2fa29b6d5b7f44a2785/647743f51bc76753239a8bc6_expressjs-logo.webp" alt="express-js"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
+    <img width="200" height="100" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" alt="Tailwind CSS"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg" alt="jest"/>
   </div>
   <div>
-    <img width="140" height="140" src="https://miro.medium.com/v2/resize:fit:953/0*w_ivMwMdr2YvH8bB.png" alt="Playwright"/>
-    <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="figma"/>
-    <img width="140" height="96" src="https://www.hatimeria.com/_next/image?url=%2Fimages%2Fmarketing%2Fvercel-logo.png&w=3840&q=75" alt="Vercel"/>
-    <img width="250" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="OpenAI"/>
+    <img width="100" height="100" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright"/>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="figma"/>
+    <img width="100" height="100" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel"/>
+    <img width="100" height="100" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI"/>
   </div>
 </section>
 
@@ -49,10 +49,11 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' width='60' height='60'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
 
-## Stats
+##Trophies 🏆
+<img height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
 
+## Stats
   <div align="center">
-    <img align="center" height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Ludwig-J&theme=nord" />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=nord" />
   </div>
