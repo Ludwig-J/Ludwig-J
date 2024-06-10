@@ -47,22 +47,16 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 
 ### 📫 How to reach me: ...
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ludwig-J)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jacob-ludwig-ab55762b1//)  
+[<img src='https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png' alt='github' height='40'>](https://github.com/Ludwig-J)  [<img src='https://i.pngimg.me/thumb/f/720/m2H7K9G6G6N4m2H7.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-ludwig-ab55762b1/)  
 
 ### Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ludwig-J&hide=stars,followers,repositories,experience)](https://github.com/Ludwig-J/github-profile-trophy)
- 
   <div align="center">
-    <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Ludwig-J&theme=dark&background=000000" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludwig-J&layout=compact&theme=vision-friendly-dark" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=vision-friendly-dark" />
+    <img height=200 src="https://github-profile-trophy.vercel.app/?username=Ludwig-J&rank=-C&theme=nord" />
+    <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Ludwig-J&theme=nord" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=nord" />
   </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=radical)
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ludwig-J)  
 
 <p align="center"> 
   Visitor count<br>
