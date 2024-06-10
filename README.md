@@ -34,14 +34,14 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="node-js"/>
     <img width="96" height="96" src="https://www.svgrepo.com/show/353724/express.svg" alt="express-js"/>
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
-    <img width="96" height="96" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" alt="Tailwind CSS"/>
+    <img width="120" height="96" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" alt="Tailwind CSS"/>
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg" alt="jest"/>
-    <img width="96" height="96" src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png" alt="Playwright"/>
+    <img width="120" height="96" src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png" alt="Playwright"/>
   </div>
   <div>
     <img width="96" height="96" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="figma"/>
-    <img width="96" height="96" src="https://www.hatimeria.com/_next/image?url=%2Fimages%2Fmarketing%2Fvercel-logo.png&w=3840&q=75" alt="Vercel"/>
-    <img width="96" height="96" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="OpenAI"/>
+    <img width="120" height="96" src="https://www.hatimeria.com/_next/image?url=%2Fimages%2Fmarketing%2Fvercel-logo.png&w=3840&q=75" alt="Vercel"/>
+    <img width="140" height="96" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="OpenAI"/>
   </div>
 </section>
 
@@ -51,11 +51,11 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
 
 ### Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ludwig-J)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ludwig-J)](https://github.com/Ludwig-J/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludwig-J)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludwig-J)](https://github.com/Ludwig-J/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludwig-J&show_icons=true&theme=cobalt)
 
 ![GitHub metrics](https://metrics.lecoq.io/Ludwig-J)  
 
