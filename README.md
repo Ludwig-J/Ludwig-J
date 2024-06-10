@@ -58,7 +58,7 @@ Im a Highly motivated full-stack developer skilled in JavaScript, Node.js, React
   </div>
 
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Ludwig-J/count.svg" />
 </p>
